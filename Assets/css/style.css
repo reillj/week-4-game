@@ -1,5 +1,4 @@
 /* Tags */
-
 body{
 	background: radial-gradient(circle,brown,black);
 	font-family: 'Open Sans', sans-serif;
@@ -26,7 +25,6 @@ ul {
 
 
 /* Classes */
-
 .center-block {  
   display: block;  
   margin-right: auto;  
@@ -57,7 +55,6 @@ ul {
 	color: yellow;
 	text-shadow: 1px 1px black;
 }
-
 
 
 /* IDs */
