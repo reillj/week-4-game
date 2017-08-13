@@ -41,7 +41,7 @@ alert("You win, Matey!");
 
 //Adds losses userTotal
 function lose(){
-alert ("You lose, no booty for you!");
+alert ("You lose! No booty for you!");
   losses++;
   $('#numberLosses').text(losses);
   reset()
