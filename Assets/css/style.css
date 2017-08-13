@@ -1,0 +1,73 @@
+/* Tags */
+body{
+	background-color: #bc875e;
+	font-family: 'Open Sans', sans-serif;
+	font-family: 'IM Fell Double Pica', serif;
+	border-radius: 30px;
+}
+
+h1{
+	text-shadow: 1px 2px #e5d4ac;
+
+}
+
+div{
+	background-color: #ffb366;
+	border-radius:40px;
+}
+
+ol{
+	list-style: decimal inside; 
+}
+
+ul {
+	list-style: circle;
+}
+
+
+/* Classes */
+.center-block {  
+  display: block;  
+  margin-right: auto;  
+  margin-left: auto;  
+}
+
+.instructions{
+	font-family: 'Source Sans Pro', sans-serif;
+	background-color: #e5d4ac;
+	border-radius: 30px;
+	border-style: dotted;
+
+}
+.gems{
+	background-color: white;
+	border-radius: 30px;
+	background-color: white;
+	border-style:groove;
+}
+
+.userTotal{
+	color: yellow;
+	text-shadow: 1px 1px black;
+
+}
+
+.numberToMatch{
+	color: yellow;
+	text-shadow: 1px 1px black;
+}
+
+
+/* IDs */
+#blue{
+	color: #4259f4;
+}
+#green{
+	color: #129123;
+}
+#red{
+	color: #b7180c;
+}
+#yellow{
+	color: yellow;
+}
